@@ -17,7 +17,7 @@ public class MyApp {
 		myapp.execute();
 
 	}
-
+system.out.println("ok");
 	private void execute() {
 		// TODO Auto-generated method stub
 		ManageRegistration manageRegistration = new ManageRegistration();
